@@ -18,7 +18,7 @@ RUN mkdir /app/node_modules/.vite || true
 RUN chown -R node:node /app/node_modules/.vite || true
 
 # Clean install all node modules
-RUN npm ci
+RUN npm i
 
 #Fix permission errors for node
 RUN chown -R node:node /app/
