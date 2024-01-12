@@ -1,18 +1,10 @@
-# create-svelte
+## Using this template
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Use the links below to create your own copy of this repo for your project. It is already fully configured with GitHub actions to auto build container images and push them to the GitHub container repository
 
-## Creating a project
+[Create a Repo with this template](https://github.com/new?template_name=UK-Svelte-Docker-Template&template_owner=Unreal-Kingdoms)
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+[Edit template in GitHub Code Spaces](https://github.com/new?template_name=UK-Svelte-Docker-Template&template_owner=Unreal-Kingdoms)
 
 ## Developing
 
