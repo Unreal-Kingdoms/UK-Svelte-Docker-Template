@@ -1,0 +1,9 @@
+version: '3'
+services:
+  uk-api:
+    image: unreal-kingdoms/uk-auth:latest
+    container_name: uk-auth-container
+    ports:
+      - "3002:3000"
+    environment:
+      NODE_ENV: production
