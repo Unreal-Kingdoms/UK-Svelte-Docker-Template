@@ -1,10 +1,8 @@
 ## Using this template
 
-Use the links below to create your own copy of this repo for your project. It is already fully configured with GitHub actions to auto build container images and push them to the GitHub container repository
+Use the link below to create your own copy of this repo for your project. It is already fully configured with GitHub actions to auto build container images and push them to the GitHub container repository
 
 [Create a Repo with this template](https://github.com/new?template_name=UK-Svelte-Docker-Template&template_owner=Unreal-Kingdoms)
-
-[Edit template in GitHub Code Spaces](https://github.com/new?template_name=UK-Svelte-Docker-Template&template_owner=Unreal-Kingdoms)
 
 ## Developing
 
