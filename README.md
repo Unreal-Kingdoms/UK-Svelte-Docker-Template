@@ -4,6 +4,8 @@ Use the link below to create your own copy of this repo for your project. It is 
 
 [Create a Repo with this template](https://github.com/new?template_name=UK-Svelte-Docker-Template&template_owner=Unreal-Kingdoms)
 
+[Use container image](https://github.com/Unreal-Kingdoms/UK-Svelte-Docker-Template/pkgs/container/uk-svelte-docker-template)
+
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
